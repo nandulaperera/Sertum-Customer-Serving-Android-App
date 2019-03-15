@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "549182666977",
+    "firebase_url": "https://sertum-serving-customer-app.firebaseio.com",
+    "project_id": "sertum-serving-customer-app",
+    "storage_bucket": "sertum-serving-customer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549182666977:android:d12e2751c0efa7e1",
+        "android_client_info": {
+          "package_name": "com.apps.hasal.sertumservingcustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549182666977-9dkbitfs2i7avqcfkte7v9n1ab6j88p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.hasal.sertumservingcustomerapp",
+            "certificate_hash": "6354364746c8fd3adb43d347c822dd6f3c4c1a67"
+          }
+        },
+        {
+          "client_id": "549182666977-fhfm097333925ua066461ojdl03jjaon.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "549182666977-fhfm097333925ua066461ojdl03jjaon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhA_GUw-9AWji_TPPMwnVnasIg5g0Kcrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549182666977-fhfm097333925ua066461ojdl03jjaon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
